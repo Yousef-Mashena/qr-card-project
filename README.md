@@ -22,6 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-component-using-html-and-css-lraBmNHFiq](https://www.frontendmentor.io/solutions/qr-component-using-html-and-css-lraBmNHFiq)
 - Live Site URL: [https://yousef-mashena.github.io/qr-card-project/](https://yousef-mashena.github.io/qr-card-project/)
 
 ## My process
