@@ -48,8 +48,9 @@ p {
   margin-bottom: 2.5rem;
   color: #68778d;
   font-size: 0.938rem;
+  font-weight: 400;
   letter-spacing: 0.013rem;
-  line-height: 120%;
+  line-height: 140%;
 }
 
 .qr-card {
